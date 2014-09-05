@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".OverdrawTestActivity" >
+    <item android:id="@+id/action_penta_overdraw"
+        android:title="@string/action_penta_overdraw"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_no_overdraw"
+        android:title="@string/action_no_overdraw"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_stroke_overdraw"
+        android:title="@string/action_stroke_overdraw"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+</menu>

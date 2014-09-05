@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--BEERWARE - modified:-->
+
+<!--Damian Walczak wrote this file. It is adviced, to leave this notice in this form.-->
+<!--You can do whatever you want with this stuff.-->
+<!--If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.-->
+
+<!--<damian{at}tooploox.com>-->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" android:thickness="3dp">
+    <solid android:color="@android:color/white"/>
+    <stroke android:width="5dp" android:color="@android:color/darker_gray" />
+</shape>
